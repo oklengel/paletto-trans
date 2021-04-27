@@ -1,4 +1,13 @@
 # PalettoTrans
+Currently wip.
+
+Todo:
+- Style
+- Implement Status
+- Implement Account
+- Routing
+- (Login)
+- Backend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
 
